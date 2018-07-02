@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>MHEC</title>
+    <title>MHEC Website</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url(); ?>source/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
