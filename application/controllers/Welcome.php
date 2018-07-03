@@ -19,6 +19,10 @@ class Welcome extends CI_Controller {
 
 
 
+
+
+
+
 	// project_ongoing 
 	public function project_ongoing()
 	{
@@ -55,6 +59,12 @@ class Welcome extends CI_Controller {
 	}
 
 
+
+
+
+
+
+
 	// About Us page 
 	public function aboutUs()
 	{
@@ -62,11 +72,26 @@ class Welcome extends CI_Controller {
 	}
 
 
-	// Courses page 
+
+
+
+
+
+
+
+
+	// achievement page 
 	public function achievement()
 	{
 		$this->load->view('achievement/achievement');
 	}
+
+
+
+
+
+
+
 
 	// Courses page 
 	public function courses()
@@ -75,11 +100,20 @@ class Welcome extends CI_Controller {
 	}
 
 
+
+
+
+
+
 	// Contact Us page 
 	public function contactUs()
 	{
 		$this->load->view('contactUs/contactUs');
 	}
+
+
+
+
 
 
 	// Gallery page 
@@ -97,6 +131,10 @@ class Welcome extends CI_Controller {
 	
 
 
+
+
+
+
 	// Vacancies page 
 	public function vacancies()
 	{
@@ -104,10 +142,27 @@ class Welcome extends CI_Controller {
 	}
 
 
+
+
+
+
 	// CSR page 
 	public function csr()
 	{
 		$this->load->view('csr/csr');
 	}
+
+
+
+
+
+
+
+	// servises page 
+	public function servises()
+	{
+		$this->load->view('servises/servises');
+	}
+
 
 }

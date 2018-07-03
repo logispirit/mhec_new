@@ -9,13 +9,13 @@
 
 
 
-    <style type="text/css">
+  <!--   <style type="text/css">
     @media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
       #client_slider_div{
         width: 50%;
       }
     }
-    </style>
+    </style> -->
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-  <div class="col-xl-16 col-lg-6 col-md-6 col-sm-6 col-6" id="client_slider_div">    
+ <!--  <div class="col-xl-16 col-lg-6 col-md-6 col-sm-6 col-6" id="client_slider_div">    
 
     <h2 id="client_slider_h2">Our  Partners</h2>
     <section class="customer-logos slider">
@@ -205,7 +205,7 @@
         </div>
       </a>
     </section>
-  </div>
+  </div> -->
 
 
 

@@ -13,6 +13,10 @@
 <body>
     <div id="wrapper">
      <?php $this->load->view('navBar'); ?>
+
+     <div style="margin-bottom: -23px; margin-top: -22px;">
+      <?php $this->load->view('navBar2'); ?>
+      </div>
      
     <div class="col-lg-12"><br>
         <h2>Completed Projects</h2>

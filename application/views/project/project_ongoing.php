@@ -1,11 +1,6 @@
 <html>
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
     <title>Projects</title>
 
@@ -18,6 +13,10 @@
 <body>
     <div id="wrapper">
      <?php $this->load->view('navBar'); ?>
+
+     <div style="margin-bottom: -23px; margin-top: -22px;">
+      <?php $this->load->view('navBar2'); ?>
+      </div>
      
     <div class="col-lg-12"><br>
         <h2>Ongoing Projects</h2>
@@ -103,31 +102,6 @@
 
 
 
-
-
-
-
-
-
-
-             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 

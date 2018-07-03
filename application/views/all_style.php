@@ -19,3 +19,12 @@
     <link href="<?php echo base_url(); ?>source/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 
+<!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>source/vendor/engine1/style.css" />
+    <script type="text/javascript" src="<?php echo base_url(); ?>source/vendor/engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
+
+
+    
+    <link rel="stylesheet" href="<?php echo base_url(); ?>source/vendor/fontawesomeAnimation/font-awesome-animation.min.css">
+

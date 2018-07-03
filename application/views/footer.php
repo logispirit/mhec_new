@@ -54,6 +54,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
                     <p>MHEC IT | 2018 | <a class="text-green ml-2" href="https://www.linkedin.com/in/thevin-malaka-b7458b106" target="_blank">#####</a></p>
+                    <li><a href="<?php echo base_url(); ?>index.php/Admin/index" target="_blank">Admin Page</a></li>
                 </div>
                 <hr />
             </div>  

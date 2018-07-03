@@ -12,7 +12,7 @@
 }
 
 .slick-slide img {
-    width: 100% !important;     /*image size*/ 
+    width: 50% !important;     /*image size*/ 
 }
 
 .slick-slider
@@ -83,7 +83,7 @@
 
 
 #client_slider_div{
-    height: 30% !important;
+    height: 40% !important;
     width: 100%;
     box-sizing:border-box;
     

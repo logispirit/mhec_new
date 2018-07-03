@@ -10,6 +10,10 @@
 <body>
     <div id="wrapper">
      <?php $this->load->view('navBar'); ?>
+
+     <div style="margin-bottom: -23px; margin-top: -22px;">
+      <?php $this->load->view('navBar2'); ?>
+      </div>
    
     <div class="panel-body">
         <div class="col-lg-12">

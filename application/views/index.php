@@ -43,18 +43,22 @@
 
 <body>
     <div id="wrapper">
-      <div style="margin-bottom: -22px; ">
+      
       <?php $this->load->view('navBar'); ?>
+      
+      <div style="margin-bottom: -23px; margin-top: -22px;">
+      <?php $this->load->view('navBar2'); ?>
       </div>
+
       <?php $this->load->view('slider'); ?>
         
       <?php $this->load->view('our_project_section'); ?>
 
-     <?php $this->load->view('our_service'); ?>
+     <!-- <?php $this->load->view('our_service'); ?> -->
 
     <?php $this->load->view('client_slider'); ?>           
 
-    <?php $this->load->view('map'); ?>
+    <!-- <?php $this->load->view('map'); ?> -->
 
     <?php $this->load->view('footer'); ?> 
     </div>   

@@ -1,11 +1,6 @@
 <html>
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
     <title>Contact Us</title>
 
@@ -59,8 +54,7 @@
     </div>   
     <!-- /#wrapper -->
 
-    <?php $this->load->view('all_script'); ?> 
-
+      <?php $this->load->view('all_script'); ?> 
    
 
 </body>
