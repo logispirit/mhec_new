@@ -27,7 +27,7 @@
                             <li>Servises 02 (sentences)</li>
                             <li>Servises 03 (sentences)</li>
                             <li>Servises 02 (sentences)</li>
-                            <li>Servises 03 (sentences)</li>
+                            <li>Servises 00 (sentences)</li>
                         </ul>
                     </div>
                 </div>
