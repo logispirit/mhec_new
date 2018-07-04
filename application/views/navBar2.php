@@ -14,7 +14,7 @@
 </style>
 
 
-        <nav class="navbar navbar-default" role="navigation" id="nav_bar" style="">
+        <nav class="navbar navbar-default" role="navigation" id="nav_bar" style="background-color: rgba(22,101,2,0.3); ">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -57,14 +57,14 @@
                   </ul>
                 </li>
 
-                <li><a href="<?php echo base_url(); ?>#">Data   &nbsp; &nbsp;|</a></li>
+                <li><a href="<?php echo base_url(); ?>index.php/data/index">Data   &nbsp; &nbsp;|</a></li>
                 <li><a href="<?php echo base_url(); ?>index.php/Welcome/contactUs">Contact Us &nbsp; &nbsp; |</a></li>
 
 
 
 
                 <li>
-                  <a href="<?php echo base_url(); ?>index.php/Welcome/vacancies">Working ad MHEC
+                  <a href="<?php echo base_url(); ?>index.php/Welcome/vacancies">Working at MHEC
                   <i class="fa fa-bell faa-tada animated " style="color:rgb(255, 0, 0);"></i> &nbsp; &nbsp;|</a>
                 </li>
                 <li>

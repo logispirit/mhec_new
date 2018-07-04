@@ -46,11 +46,12 @@
       
       <?php $this->load->view('navBar'); ?>
       
-      <div style="margin-bottom: -23px; margin-top: -22px;">
-      <?php $this->load->view('navBar2'); ?>
+      <div style="margin-bottom: -23px !important; margin-top: -22px;">
+        <?php $this->load->view('navBar2'); ?>
       </div>
 
       <?php $this->load->view('slider'); ?>
+      
         
       <?php $this->load->view('our_project_section'); ?>
 

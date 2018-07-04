@@ -2,7 +2,7 @@
 <head>
 
 
-    <title>Contact Us</title>
+    <title>Our Servises</title>
 
     <?php $this->load->view('all_style'); ?> 
 
@@ -19,24 +19,71 @@
    
     <div class="panel-body">
         <div class="row">
-            <div class="col-md-6 col-md-offset-3">     
-                <h3><i class="fa fa-paper-plane"></i> Contact Our Company</h3><br>
-                 <div class="form-group">
-                    <label>Name </label>
-                    <input class="form-control" placeholder="Enter Your Name" required="">
-                </div>
+            <div class="col-md-10 col-md-offset-1">     
+                <h3><i class="fa fa-plus"></i> Our Servises</h3><br>
+                 <div class="well col-lg-12" >
 
-                 <div class="form-group">
-                    <label>Email </label>
-                    <input class="form-control" type="Email" placeholder="Enter Your Email" required="">
-                </div>
+                        <div class="col-6 col-lg-4 col-md-6 col-sm-6" style="height:30%;">
+                            <h4>Planning and Preparation</h4>
+                            <ul>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                            </ul>
+                        </div>
 
-                <div class="form-group">
-                    <label>Message</label>
-                    <textarea class="form-control" rows="3"></textarea>
-                </div>
+                        
+                        <div class="col-6 col-lg-4 col-md-6 col-sm-6" style="height:30%;">
+                             <h4>Planning and Preparation</h4>
+                            <ul>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                            </ul>
+                        </div>
 
-                <button type="button" class="btn btn-primary btn-lg btn-block">Submit Your Message</button>
+                       
+                        
+                        <div class="col-6 col-lg-4 col-md-6 col-sm-6" style="height:30%;">
+                            <h4>Planning and Preparation</h4>
+                            <ul>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                            </ul>
+                        </div>
+
+                       
+                        
+                        <div class="col-6 col-lg-4 col-md-6 col-sm-6" style="height:30%;">
+                            <h4>Planning and Preparation</h4>
+                            <ul>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                            </ul>
+                        </div>
+
+                        <div class="col-6 col-lg-4 col-md-6 col-sm-6" style="height:30%;">
+                            <h4>Planning and Preparation</h4>
+                            <ul>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                              <li>test 1</li>
+                            </ul>
+                        </div>
+
+                    </div>
                 <br><br>
 
 
