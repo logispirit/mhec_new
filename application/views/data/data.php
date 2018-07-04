@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contact Us</title>
+    <title>Data</title>
 
     <?php $this->load->view('all_style'); ?> 
 
