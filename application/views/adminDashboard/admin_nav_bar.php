@@ -45,7 +45,7 @@
                 <div class="sidebar-nav navbar-collapse">
                     <ul class="nav" id="side-menu">
                         
-                        <li class="active">
+                        <li>
                             <a href="#"><i class="fa fa-database"></i> Project<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
@@ -80,6 +80,38 @@
                             <!-- /.nav-second-level -->
                         </li>
 
+
+
+                        <li>
+                            <a href="#"><i class="fa fa-plus"></i> Data <span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_traffic_data">Add to Traffic</a>
+                                </li>
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_highway_data">Add to Highway </a>
+                                </li>
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_hydrology_data">Add to Hydrology </a>
+                                </li>
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_enviromental_data">Add to Environmental </a>
+                                </li>
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_social_data">Add to Social </a>
+                                </li>
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_data_collection_data">Add to Data Collection</a>
+                                </li>
+                                <li>
+                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_miscellaneous_data">Add to Data Miscellaneous </a>
+                                </li>
+                               
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+
+
                         <li>
                             <a href="#"><i class="fa fa-user"></i> About Us<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
@@ -95,6 +127,8 @@
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
+
+                        <li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
 
                         <li>
                             <a href="<?php echo base_url(); ?>index.php/Admin/addVacancies"></i> <i class="fa fa-plus-square"></i> Add Vacansies</a>

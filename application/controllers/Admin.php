@@ -81,4 +81,54 @@ class admin extends CI_Controller {
 
 
 
+
+	//////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////    Data section   /////////////////////////////////////////////0
+	
+	// add add_traffic_data
+		public function add_traffic_data()
+	{
+		$this->load->view('adminDashboard/data/add_traffic_data');
+	}
+
+	// add add_highway_data
+		public function add_highway_data()
+	{
+		$this->load->view('adminDashboard/data/add_highway_data');
+	}
+
+	// add add_hydrology_data
+		public function add_hydrology_data()
+	{
+		$this->load->view('adminDashboard/data/add_hydrology_data');
+	}
+
+	// add add_enviromental_data
+		public function add_enviromental_data()
+	{
+		$this->load->view('adminDashboard/data/add_enviromental_data');
+	}
+
+	// add add_social_data
+		public function add_social_data()
+	{
+		$this->load->view('adminDashboard/data/add_social_data');
+	}
+
+	// add add_data_collection_data
+		public function add_data_collection_data()
+	{
+		$this->load->view('adminDashboard/data/add_data_collection_data');
+	}
+
+	// add add_miscellaneous_data
+		public function add_miscellaneous_data()
+	{
+		$this->load->view('adminDashboard/data/add_miscellaneous_data');
+	}
+
+
+
+
 }
