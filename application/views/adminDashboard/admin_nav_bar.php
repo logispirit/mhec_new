@@ -49,13 +49,13 @@
                             <a href="#"><i class="fa fa-database"></i> Project<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/showProject"><i class="fa fa-bars"></i> Show All Projects</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/showProject"><i class="fa fa-bars"></i> Show All Projects</a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/addProjectOnging"><i class="fa fa-plus-square"></i> Add For Onging Project</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/addProjectOnging"><i class="fa fa-plus-square"></i> Add For Onging Project</a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/addProjectCompleted"><i class="fa fa-plus-square"></i> Add For Completed</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/addProjectCompleted"><i class="fa fa-plus-square"></i> Add For Completed</a>
                                 </li>
                                 <li>
                                     <a href="<?php echo base_url(); ?>index.php/Admin/editProject"><i class="fa fa-edit"></i> Edit Project</a>
@@ -68,10 +68,10 @@
                             <a href="#"><i class="fa fa-image"></i> Gallery<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a class="active" href="#"><i class="fa fa-bars"></i> Show All Images</a>
+                                    <a href="#"><i class="fa fa-bars"></i> Show All Images</a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/addPhoto"><i class="fa fa-plus-square"></i> Add Images</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/addPhoto"><i class="fa fa-plus-square"></i> Add Images</a>
                                 </li>
                                 <li>
                                     <a href="#####"><i class="fa fa-edit"></i> Edit Images</a>
@@ -86,25 +86,25 @@
                             <a href="#"><i class="fa fa-plus"></i> Data <span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_traffic_data">Add to Traffic</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/add_traffic_data">Add to Traffic</a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_highway_data">Add to Highway </a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/add_highway_data">Add to Highway </a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_hydrology_data">Add to Hydrology </a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/add_hydrology_data">Add to Hydrology </a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_enviromental_data">Add to Environmental </a>
+                                    <a  href="<?php echo base_url(); ?>index.php/Admin/add_enviromental_data">Add to Environmental </a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_social_data">Add to Social </a>
+                                    <a  href="<?php echo base_url(); ?>index.php/Admin/add_social_data">Add to Social </a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_data_collection_data">Add to Data Collection</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/add_data_collection_data">Add to Data Collection</a>
                                 </li>
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/add_miscellaneous_data">Add to Data Miscellaneous </a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/add_miscellaneous_data">Add to Data Miscellaneous </a>
                                 </li>
                                
                             </ul>
@@ -116,10 +116,10 @@
                             <a href="#"><i class="fa fa-user"></i> About Us<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a class="active" href="<?php echo base_url(); ?>index.php/Admin/addProject"><i class="fa fa-bars"></i> Show All Members</a>
+                                    <a href="<?php echo base_url(); ?>index.php/Admin/addProject"><i class="fa fa-bars"></i> Show All Members</a>
                                 </li>
                                 <li>
-                                    <a class="active" href="####"><i class="fa fa-plus-square"></i> Add Member</a>
+                                    <a href="####"><i class="fa fa-plus-square"></i> Add Member</a>
                                 </li>
                                 <li>
                                     <a href="#####"><i class="fa fa-edit"></i> Edit Member</a>
